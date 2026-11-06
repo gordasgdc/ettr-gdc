@@ -14,6 +14,8 @@ Pentru operatori, DIT și coloriști care expun spre dreapta și vor să vadă s
 
 **[Descărcare](https://github.com/gordasgdc/ettr-gdc/releases/latest)** · **[Website](https://gordas.dev/ettr/)** · Ghiduri: [EN](README.md) · [RO](README.ro.md) · [ES](README.es.md)
 
+Vezi și: [ZONA GDC](https://github.com/gordasgdc/zona-gdc) — LUT-uri de monitorizare pentru ghidaj de expunere (https://gordas.dev/zona-gdc/).
+
 **Ce descarci:** `ETTR_GDC-1.0.0-portable.zip` (LUT-uri + documente, orice sistem / card de cameră) sau `ETTR_GDC-1.0.0-macOS-icons.zip` (aceleași fișiere cu iconițe de foldere în Finder), plus `SHA256SUMS.txt`.
 
 > **Limite:** nu înlocuiește un filtru ND, nu recuperează luminile, ieșirea rămâne log și cere o transformare de afișare corectă; netestat pe toate camerele și monitoarele. Detalii mai jos.

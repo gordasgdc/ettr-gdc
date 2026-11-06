@@ -14,6 +14,8 @@ For cinematographers, DITs and colourists who expose to the right and want to se
 
 **[Download](https://github.com/gordasgdc/ettr-gdc/releases/latest)** · **[Website](https://gordas.dev/ettr/en/)** · Guides: [EN](README.md) · [RO](README.ro.md) · [ES](README.es.md)
 
+See also: [ZONA GDC](https://github.com/gordasgdc/zona-gdc) — exposure-guidance monitoring LUTs (https://gordas.dev/zona-gdc/en/).
+
 **What you download:** `ETTR_GDC-1.0.0-portable.zip` (LUTs + documents, any OS / camera card) or `ETTR_GDC-1.0.0-macOS-icons.zip` (same files with Finder folder icons), plus `SHA256SUMS.txt`.
 
 > **Limits:** not an ND-filter replacement, no highlight recovery, the output is still log and needs a proper display transform; not tested on every camera or monitor. Details below.

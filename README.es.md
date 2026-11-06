@@ -14,6 +14,8 @@ Para directores de fotografía, DIT y coloristas que exponen a la derecha y quie
 
 **[Descarga](https://github.com/gordasgdc/ettr-gdc/releases/latest)** · **[Sitio web](https://gordas.dev/ettr/es/)** · Guías: [EN](README.md) · [RO](README.ro.md) · [ES](README.es.md)
 
+Véase también: [ZONA GDC](https://github.com/gordasgdc/zona-gdc) — LUTs de monitorización para guía de exposición (https://gordas.dev/zona-gdc/es/).
+
 **Qué descargas:** `ETTR_GDC-1.0.0-portable.zip` (LUTs + documentos, cualquier sistema / tarjeta de cámara) o `ETTR_GDC-1.0.0-macOS-icons.zip` (mismos ficheros con iconos de carpeta en Finder), más `SHA256SUMS.txt`.
 
 > **Límites:** no sustituye a un filtro ND, no recupera altas luces, la salida sigue siendo log y necesita una transformación de visualización adecuada; no probado en todas las cámaras y monitores. Detalles abajo.
