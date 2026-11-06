@@ -1,0 +1,108 @@
+{
+ "slog2": {
+  "maxNodeDiff": 4.985983706740083e-07,
+  "ok": true
+ },
+ "slog3": {
+  "maxNodeDiff": 4.988297481745008e-07,
+  "ok": true
+ },
+ "clog": {
+  "maxNodeDiff": 4.97774790969574e-07,
+  "ok": true
+ },
+ "clog2": {
+  "maxNodeDiff": 4.942701689047979e-07,
+  "ok": true
+ },
+ "clog3": {
+  "maxNodeDiff": 4.982892343047274e-07,
+  "ok": true
+ },
+ "vlog": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei160": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei200": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei250": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei320": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei400": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei500": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei640": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei800": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei1000": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei1280": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc3_ei1600": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "logc4": {
+  "maxNodeDiff": 4.889074033814778e-07,
+  "ok": true
+ },
+ "log3g10": {
+  "maxNodeDiff": 4.957781276210271e-07,
+  "ok": true
+ },
+ "bmdgen5": "NO_ORACLE",
+ "nlog": {
+  "maxNodeDiff": 4.966728214261806e-07,
+  "ok": true
+ },
+ "flog": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "flog2": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "protune": {
+  "maxNodeDiff": 4.977971589104069e-07,
+  "ok": true
+ },
+ "applelog": {
+  "maxNodeDiff": 4.986214250379817e-07,
+  "ok": true
+ },
+ "tlog": {
+  "maxNodeDiff": 5.000000000005e-07,
+  "ok": true
+ },
+ "intermediate": "NO_ORACLE",
+ "acescct": {
+  "maxNodeDiff": 4.977168950315303e-07,
+  "ok": true
+ }
+}

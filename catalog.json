@@ -1,0 +1,1118 @@
+{
+ "format": "ettr_gdc_catalog_v1",
+ "version": "1.0.0",
+ "size": 33,
+ "stops": [
+  1.0,
+  1.5,
+  2.0,
+  2.5,
+  3.0,
+  3.5,
+  4.0
+ ],
+ "profiles": [
+  {
+   "brand": "Sony",
+   "folder": "S-Log2_S-Gamut",
+   "code": "SLog2-SG",
+   "gamut": "S-Gamut",
+   "curve": "slog2",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Sony/S-Log2_S-Gamut/SLog2-SG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Sony",
+   "folder": "S-Log3_S-Gamut3.Cine",
+   "code": "SLog3-SG3C",
+   "gamut": "S-Gamut3.Cine",
+   "curve": "slog3",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Sony/S-Log3_S-Gamut3.Cine/SLog3-SG3C_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Sony",
+   "folder": "S-Log3_S-Gamut3",
+   "code": "SLog3-SG3",
+   "gamut": "S-Gamut3",
+   "curve": "slog3",
+   "note": "same numbers as S-Gamut3.Cine (the curve is the same)",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Sony/S-Log3_S-Gamut3/SLog3-SG3_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Canon",
+   "folder": "Canon-Log_Cinema-Gamut",
+   "code": "CLog-CG",
+   "gamut": "Cinema Gamut",
+   "curve": "clog",
+   "note": "legal-range video levels",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Canon/Canon-Log_Cinema-Gamut/CLog-CG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Canon",
+   "folder": "Canon-Log2_Cinema-Gamut",
+   "code": "CLog2-CG",
+   "gamut": "Cinema Gamut",
+   "curve": "clog2",
+   "note": "legal-range video levels",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Canon/Canon-Log2_Cinema-Gamut/CLog2-CG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Canon",
+   "folder": "Canon-Log3_Cinema-Gamut",
+   "code": "CLog3-CG",
+   "gamut": "Cinema Gamut",
+   "curve": "clog3",
+   "note": "legal-range video levels",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Canon/Canon-Log3_Cinema-Gamut/CLog3-CG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Panasonic",
+   "folder": "V-Log_V-Gamut",
+   "code": "VLog-VG",
+   "gamut": "V-Gamut",
+   "curve": "vlog",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Panasonic/V-Log_V-Gamut/VLog-VG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0160",
+   "code": "LogC3-EI160",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei160",
+   "note": "ALEXA, EI 160",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0160/LogC3-EI160_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0200",
+   "code": "LogC3-EI200",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei200",
+   "note": "ALEXA, EI 200",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0200/LogC3-EI200_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0250",
+   "code": "LogC3-EI250",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei250",
+   "note": "ALEXA, EI 250",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0250/LogC3-EI250_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0320",
+   "code": "LogC3-EI320",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei320",
+   "note": "ALEXA, EI 320",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0320/LogC3-EI320_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0400",
+   "code": "LogC3-EI400",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei400",
+   "note": "ALEXA, EI 400",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0400/LogC3-EI400_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0500",
+   "code": "LogC3-EI500",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei500",
+   "note": "ALEXA, EI 500",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0500/LogC3-EI500_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0640",
+   "code": "LogC3-EI640",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei640",
+   "note": "ALEXA, EI 640",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0640/LogC3-EI640_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI0800",
+   "code": "LogC3-EI800",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei800",
+   "note": "ALEXA, EI 800",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI0800/LogC3-EI800_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI1000",
+   "code": "LogC3-EI1000",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei1000",
+   "note": "ALEXA, EI 1000",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI1000/LogC3-EI1000_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI1280",
+   "code": "LogC3-EI1280",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei1280",
+   "note": "ALEXA, EI 1280",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI1280/LogC3-EI1280_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC3_AWG3_EI1600",
+   "code": "LogC3-EI1600",
+   "gamut": "ARRI Wide Gamut 3",
+   "curve": "logc3_ei1600",
+   "note": "ALEXA, EI 1600",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC3_AWG3_EI1600/LogC3-EI1600_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ARRI",
+   "folder": "LogC4_AWG4",
+   "code": "LogC4-AWG4",
+   "gamut": "ARRI Wide Gamut 4",
+   "curve": "logc4",
+   "note": "ALEXA 35",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ARRI/LogC4_AWG4/LogC4-AWG4_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "RED",
+   "folder": "Log3G10_REDWideGamutRGB",
+   "code": "L3G10-RWG",
+   "gamut": "REDWideGamutRGB",
+   "curve": "log3g10",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "RED/Log3G10_REDWideGamutRGB/L3G10-RWG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Blackmagic",
+   "folder": "Film-Gen5_BMD-WG-Gen5",
+   "code": "BMDGen5",
+   "gamut": "Blackmagic Wide Gamut Gen5",
+   "curve": "bmdgen5",
+   "note": "Gen5 only",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Blackmagic/Film-Gen5_BMD-WG-Gen5/BMDGen5_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Nikon",
+   "folder": "N-Log_N-Gamut",
+   "code": "NLog-NG",
+   "gamut": "N-Gamut (Rec.2020 primaries)",
+   "curve": "nlog",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Nikon/N-Log_N-Gamut/NLog-NG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Fujifilm",
+   "folder": "F-Log_F-Gamut",
+   "code": "FLog-FG",
+   "gamut": "F-Gamut (Rec.2020 primaries)",
+   "curve": "flog",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Fujifilm/F-Log_F-Gamut/FLog-FG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Fujifilm",
+   "folder": "F-Log2_F-Gamut",
+   "code": "FLog2-FG",
+   "gamut": "F-Gamut (Rec.2020 primaries)",
+   "curve": "flog2",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Fujifilm/F-Log2_F-Gamut/FLog2-FG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "GoPro",
+   "folder": "Protune-Flat_Protune-Native",
+   "code": "Protune",
+   "gamut": "Protune Native",
+   "curve": "protune",
+   "note": "Protune (Flat) curve only",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "GoPro/Protune-Flat_Protune-Native/Protune_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "Apple",
+   "folder": "Apple-Log_Rec2020",
+   "code": "AppleLog",
+   "gamut": "Rec.2020",
+   "curve": "applelog",
+   "note": "Apple Log v1",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "Apple/Apple-Log_Rec2020/AppleLog_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "FilmLight",
+   "folder": "T-Log_E-Gamut",
+   "code": "TLog-EG",
+   "gamut": "E-Gamut",
+   "curve": "tlog",
+   "note": "",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "FilmLight/T-Log_E-Gamut/TLog-EG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "DaVinci",
+   "folder": "DaVinci-Intermediate_DWG",
+   "code": "DI-DWG",
+   "gamut": "DaVinci Wide Gamut",
+   "curve": "intermediate",
+   "note": "working space, not a camera",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "DaVinci/DaVinci-Intermediate_DWG/DI-DWG_ETTR-4EV.cube"
+    }
+   ]
+  },
+  {
+   "brand": "ACES",
+   "folder": "ACEScct_AP1",
+   "code": "ACEScct",
+   "gamut": "ACES AP1",
+   "curve": "acescct",
+   "note": "working space, not a camera",
+   "files": [
+    {
+     "stops": 1.0,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-1EV.cube"
+    },
+    {
+     "stops": 1.5,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-1_5EV.cube"
+    },
+    {
+     "stops": 2.0,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-2EV.cube"
+    },
+    {
+     "stops": 2.5,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-2_5EV.cube"
+    },
+    {
+     "stops": 3.0,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-3EV.cube"
+    },
+    {
+     "stops": 3.5,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-3_5EV.cube"
+    },
+    {
+     "stops": 4.0,
+     "file": "ACES/ACEScct_AP1/ACEScct_ETTR-4EV.cube"
+    }
+   ]
+  }
+ ]
+}
